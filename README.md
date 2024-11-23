@@ -37,11 +37,13 @@ python3 -m unittest tests/test_library_manager.py
 Реализовать поддержку базы данных вместо JSON.
 
 ✍️ Автор
+
 Yesbol Zholdasbay
 
 esbolyegizekov@gmail.com 
 
 🔗 Ссылки
-Документация Python
 
-GitHub
+[Документация Python](https://docs.python.org/3/)
+
+[GitHub](https://github.com/)
