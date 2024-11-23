@@ -38,8 +38,10 @@ python3 -m unittest tests/test_library_manager.py
 
 ✍️ Автор
 Yesbol Zholdasbay
+
 esbolyegizekov@gmail.com 
 
 🔗 Ссылки
 Документация Python
+
 GitHub
